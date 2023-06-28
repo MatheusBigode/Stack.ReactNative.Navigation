@@ -1,0 +1,1 @@
+# Stack.ReactNative.Navigation
